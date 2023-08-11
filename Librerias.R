@@ -1,9 +1,8 @@
-#1. Instalar Git
+#Paso 1: Instalar Git
 #https://git-scm.com/
 
-#Cargar la libreria:
+#Paso 2: Instalar y Cargar el paquete:
 library(usethis)
-
 
 #2. Crear Token
 create_github_token()
