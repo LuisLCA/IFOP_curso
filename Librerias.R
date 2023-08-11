@@ -23,3 +23,7 @@ gitcreds::gitcreds_set()
 ##############################################
 ###consuoltas
 
+library(usethis)
+usethis::use_github()
+
+
