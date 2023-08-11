@@ -26,4 +26,7 @@ gitcreds::gitcreds_set()
 library(usethis)
 usethis::use_github()
 
+datos=rnorm(1000)
+hist(datos)
+summary(datos)
 
