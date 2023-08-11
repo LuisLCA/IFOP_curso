@@ -1,6 +1,7 @@
-#Instalar git
+#1. Instalar Git
 #https://git-scm.com/
 
+#Cargar la libreria:
 library(usethis)
 
 
@@ -16,5 +17,8 @@ library(gitcreds)
 
 gitcreds::gitcreds_set()
 
-#copiar el token: 
+#copiar el token en el link que aparecera: 
 #  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
+
+##############################################
+
